@@ -118,6 +118,7 @@ public class MainGameLoop
         ModelTexture cubeModelTexture = new ModelTexture(loader.loadTexture("cube"));
         TexturedModel cubeTexturedModel = new TexturedModel(cubeModel, cubeModelTexture);
 
+        // blah blah
         SceneLoader sceneLoader = new SceneLoader("scene", cubeTexturedModel);
 
         // FBO that renders information to a texture
