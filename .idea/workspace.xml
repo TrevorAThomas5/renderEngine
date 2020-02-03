@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ed4458-ee35-418e-9bbc-df58dda67ea8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/scene" beforeDir="false" afterPath="$PROJECT_DIR$/res/scene" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LWJGL/engineTester/MainGameLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LWJGL/engineTester/MainGameLoop.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,26 +92,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="232" y="361" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1576375118874" />
+    <state x="327" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579767242930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="327" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579767242930" />
     <state x="370" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576380032021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="370" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576380032021" />
-    <state width="1234" height="399" key="GridCell.Tab.0.bottom" timestamp="1579235151526">
+    <state width="1413" height="401" key="GridCell.Tab.0.bottom" timestamp="1579767462746">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579235151526" />
-    <state width="1234" height="399" key="GridCell.Tab.0.center" timestamp="1579235151526">
+    <state width="1413" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579767462746" />
+    <state width="1413" height="401" key="GridCell.Tab.0.center" timestamp="1579767462746">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579235151526" />
-    <state width="1234" height="399" key="GridCell.Tab.0.left" timestamp="1579235151526">
+    <state width="1413" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579767462746" />
+    <state width="1413" height="401" key="GridCell.Tab.0.left" timestamp="1579767462746">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579235151526" />
-    <state width="1234" height="399" key="GridCell.Tab.0.right" timestamp="1579235151526">
+    <state width="1413" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579767462746" />
+    <state width="1413" height="401" key="GridCell.Tab.0.right" timestamp="1579767462746">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579235151526" />
+    <state width="1413" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579767462746" />
     <state width="1244" height="328" key="GridCell.Tab.1.bottom" timestamp="1576374501358">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
